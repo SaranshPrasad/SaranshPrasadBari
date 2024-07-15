@@ -81,6 +81,7 @@ footer {
     flex-wrap: wrap;
     justify-content: space-around;
   }
+  
 }
 
 .big{
@@ -191,7 +192,7 @@ footer {
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 @keyframes typing {
